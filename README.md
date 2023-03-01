@@ -3,6 +3,7 @@
  - 😄 Pronouns: She/Her
  - 🌱 I’m currently learning Typescript
 ### Deployment Links:
+  - Rate Your Friends : https://rate-your-friends.netlify.app/
   - restfulRooms : https://restful-rooms.netlify.app/
   - DayTheBarber : https://bookdaythebarber.fly.dev/
   - Connect Four : https://dlittleconnectfour.netlify.app/
